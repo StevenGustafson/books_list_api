@@ -18,3 +18,5 @@ Steps
 1. Look at logs, may need to add requirements.txt (use pip freeze, probably only Flask and requests needed)
 1. In build logs, in deployment center, if it succeeds the URL will be in deployment step
 1. Make sure your app is called app.py
+
+(based on https://dev.to/dhanushreddy29/using-azures-f1-free-plan-to-host-a-rest-api-3l4m)
